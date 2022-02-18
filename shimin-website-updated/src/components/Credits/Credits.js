@@ -52,7 +52,7 @@ Credits.propTypes = {
 Credits.defaultProps = {
     image: flowers,
     title: "Thank You",
-    subtitles: "Do feel free to contact me if you want to offer me a job with work life balance",
+    subtitles: "Do feel free to contact me if you want to offer me a job",
     linkedInLink: "https://www.linkedin.com/in/shi-min-low-8a09591bb",
     linkedInIcon: linkedInIcon,
     emailAddress: "mailto:shimin.loww@gmail.com",
