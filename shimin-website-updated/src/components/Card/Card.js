@@ -11,7 +11,7 @@ const Card = ({ icon, image, text, isButtonDisabled, buttonMessage, link }) => {
         <div className="card">
             <div className="card__header"><img className="card__header__icon" src={icon} alt=''/></div>
             <img className="card__image" src={image} alt=''/>
-            <p>{text}</p>
+            <h4>{text}</h4>
             <Button isOutline isImage
                 isDisabled={isButtonDisabled}
                 text={buttonMessage}
