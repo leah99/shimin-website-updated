@@ -2,6 +2,7 @@
 
 .quote-banner {
     margin-top: calc(25px / var(--size-divisor));
+    margin-left: calc(100px / var(--size-divisor));
     @include displayFlex();
     flex-direction: row;
     justify-content: center;
@@ -32,6 +33,7 @@
     }
 
     &__container {
+        margin-right: calc(100px / var(--size-divisor));
         @include displayFlex();
         flex-direction: row;
         overflow: visible;
