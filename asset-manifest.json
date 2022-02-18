@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/shimin-website-updated/static/css/main.633c0645.css",
+    "main.js": "/shimin-website-updated/static/js/main.fb98da3f.js",
+    "static/js/787.8ef1a7d6.chunk.js": "/shimin-website-updated/static/js/787.8ef1a7d6.chunk.js",
+    "static/media/leaves.jpg": "/shimin-website-updated/static/media/leaves.e0b2d33e75ad00639e3b.jpg",
+    "static/media/lemons.jpg": "/shimin-website-updated/static/media/lemons.73ce3c44644b42ce7e28.jpg",
+    "static/media/tulips-and-drape.jpg": "/shimin-website-updated/static/media/tulips-and-drape.e7fcb79b05debf13d05b.jpg",
+    "static/media/lemon-leave.jpg": "/shimin-website-updated/static/media/lemon-leave.ce6f47a7eb1bf12af308.jpg",
+    "static/media/everlasting-bouquet.jpg": "/shimin-website-updated/static/media/everlasting-bouquet.923cd2fb4f11fca76e39.jpg",
+    "static/media/dried-leaves.jpg": "/shimin-website-updated/static/media/dried-leaves.7f62dfeb861b854b52d0.jpg",
+    "static/media/pots.jpg": "/shimin-website-updated/static/media/pots.ea922cd72643d476fc21.jpg",
+    "static/media/fan-editorial.jpg": "/shimin-website-updated/static/media/fan-editorial.4b5e12fbbe163f2077b1.jpg",
+    "static/media/spider-lily-light.png": "/shimin-website-updated/static/media/spider-lily-light.d221dd4b5e3893188654.png",
+    "static/media/duck-leaves-brown.png": "/shimin-website-updated/static/media/duck-leaves-brown.e9ad6348d76f0dff791e.png",
+    "static/media/weed-light.png": "/shimin-website-updated/static/media/weed-light.e9c909725fe963a94925.png",
+    "static/media/logo.png": "/shimin-website-updated/static/media/logo.8cfa517e71b3ccf9cd7a.png",
+    "static/media/email.svg": "/shimin-website-updated/static/media/email.3bf7f94dceee793edbb2553e09ca175f.svg",
+    "static/media/linkedIn.svg": "/shimin-website-updated/static/media/linkedIn.8543daa283008fd8aeca5b37eb944450.svg",
+    "static/media/close-quotation.svg": "/shimin-website-updated/static/media/close-quotation.dfae26c84b927e991f0f40414a9cb2b3.svg",
+    "static/media/open-quotation.svg": "/shimin-website-updated/static/media/open-quotation.6591af40d3f4e8c051d64605a481e8d8.svg",
+    "static/media/up-arrow.svg": "/shimin-website-updated/static/media/up-arrow.bdc18e6105de25ad64ba4bfa86a04d70.svg",
+    "static/media/arrow-right.svg": "/shimin-website-updated/static/media/arrow-right.dbba579812f1fef9a125.svg",
+    "static/media/copyright.svg": "/shimin-website-updated/static/media/copyright.32ac8805b9b741742b84383915335ed4.svg",
+    "index.html": "/shimin-website-updated/index.html",
+    "main.633c0645.css.map": "/shimin-website-updated/static/css/main.633c0645.css.map",
+    "main.fb98da3f.js.map": "/shimin-website-updated/static/js/main.fb98da3f.js.map",
+    "787.8ef1a7d6.chunk.js.map": "/shimin-website-updated/static/js/787.8ef1a7d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633c0645.css",
+    "static/js/main.fb98da3f.js"
+  ]
+}
