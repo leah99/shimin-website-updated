@@ -16,8 +16,8 @@
             align-self: flex-end;
             -ms-transform: rotate(250deg);
             transform: rotate(250deg);
-            width: calc(200px / var(--size-divisor));
-            height: calc(200px / var(--size-divisor));
+            width: calc(180px / var(--size-divisor));
+            height: calc(180px / var(--size-divisor));
         }
 
         .quote {
@@ -27,8 +27,8 @@
         &__image-bottom {
             -ms-transform: rotate(60deg);
             transform: rotate(60deg);
-            width: calc(200px / var(--size-divisor));
-            height: calc(200px / var(--size-divisor));
+            width: calc(180px / var(--size-divisor));
+            height: calc(180px / var(--size-divisor));
         }
     }
 
