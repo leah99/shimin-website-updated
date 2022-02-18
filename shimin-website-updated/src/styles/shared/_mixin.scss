@@ -64,6 +64,14 @@
     -o-animation: $value;
     animation: $value;
   }
+
+  @mixin transition($value) {
+    -webkit-transition: $value;
+    -moz-transition: $value;
+    -o-transition: $value;
+    -ms-transition: $value;
+    transition: $value;
+  }
   
   //e.g. @include calc(width, "25% - 1em");
   @mixin calc($property, $expression) {
