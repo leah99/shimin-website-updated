@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shimin-website-updated/static/css/main.633c0645.css",
+    "main.css": "/shimin-website-updated/static/css/main.462dbbd9.css",
     "main.js": "/shimin-website-updated/static/js/main.fb98da3f.js",
     "static/js/787.8ef1a7d6.chunk.js": "/shimin-website-updated/static/js/787.8ef1a7d6.chunk.js",
     "static/media/leaves.jpg": "/shimin-website-updated/static/media/leaves.e0b2d33e75ad00639e3b.jpg",
@@ -23,12 +23,12 @@
     "static/media/arrow-right.svg": "/shimin-website-updated/static/media/arrow-right.dbba579812f1fef9a125.svg",
     "static/media/copyright.svg": "/shimin-website-updated/static/media/copyright.32ac8805b9b741742b84383915335ed4.svg",
     "index.html": "/shimin-website-updated/index.html",
-    "main.633c0645.css.map": "/shimin-website-updated/static/css/main.633c0645.css.map",
+    "main.462dbbd9.css.map": "/shimin-website-updated/static/css/main.462dbbd9.css.map",
     "main.fb98da3f.js.map": "/shimin-website-updated/static/js/main.fb98da3f.js.map",
     "787.8ef1a7d6.chunk.js.map": "/shimin-website-updated/static/js/787.8ef1a7d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.633c0645.css",
+    "static/css/main.462dbbd9.css",
     "static/js/main.fb98da3f.js"
   ]
 }
